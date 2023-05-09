@@ -28,6 +28,10 @@ body {
     justify-content: center;
     text-rendering: optimizeSpeed;
     font-family: 'Barlow Semi Condensed', sans-serif;
+    overflow: hidden;
+}
+.container {
+    margin-bottom: 33px;
 }
 .container   .box {
     border-radius: 8px;
