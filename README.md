@@ -24,7 +24,7 @@ Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo ([(https://velvety-kataifi-a399ba.netlify.app/]([https://peppy-souffle-b73270.netlify.app/])])
+Live Demo (https://glittering-crisp-6f6be5.netlify.app/)
 
 📬 Contact
 
