@@ -2,25 +2,19 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Testimonials grid section" challenge from Frontend Mentor. This project is a modern and responsive testimonials grid that showcases user reviews in an aesthetically pleasing way.
+
+
 
 🚀 Features
+✔️ Fully Responsive Design – Adapts to all screen sizes smoothly.
+✔️ Grid-Based Layout – Structured using CSS Grid for a clean and flexible design.
+✔️ Accessible & Well-structured Code – Ensures readability and usability.
 
-Responsive and accessible design
-
-Well-structured HTML & CSS
-
-Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
-
-git clone (https://github.com/AbdallahMaherDev/testimonials-grid-9)
-
-Open index.html in your browser to view the component.
+HTML / CSS3 (Grid for layout)
 
 🎨 Preview
 
